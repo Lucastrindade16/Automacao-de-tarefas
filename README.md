@@ -26,7 +26,8 @@ Este projeto realiza a **automação do cadastro de produtos em um site** por me
 
 Antes de rodar o projeto, você precisa ter instalado:
 
-- Python 3.x
+- Python
 - As bibliotecas:
   ```bash
-  pip install pyautogui pandas
+  pip install pyautogui
+  pip install pandas
