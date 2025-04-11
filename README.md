@@ -13,7 +13,7 @@ Este projeto realiza a **automação do cadastro de produtos em um site** por me
   - Categoria
   - Preço unitário
   - Custo
-  - Observações
+  - Obs (Observações)
 
 ## 🧰 Tecnologias utilizadas
 
